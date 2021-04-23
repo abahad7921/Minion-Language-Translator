@@ -12,7 +12,7 @@ body {
 }
 
 .container-center {
-    max-width: 600px;
+    max-width: 700px;
     margin: auto;
 }
 
@@ -28,6 +28,7 @@ main{
     text-align: center;
     font-size: 1rem;
     color: whitesmoke;
+    margin: auto;
 }
 
 
